@@ -90,7 +90,7 @@ export default {
       //http://meanandroid.com/latestposts/how-never-expiring-facebook-access-token/
       var self = this;
       this.$axios
-        .get("https://graph.facebook.com/v3.3/zona9scoutsargentina/feed", {
+        .get("https://graph.facebook.com/v3.3/distritocinco.zonanueve/feed", {
           params: {
             access_token:
               "EAAG7eaYW56ABAAVhCpRXDbaSf8nRDysihxKWfJo7wjQPHElAG98pqtWi05kQfpLI7tH2pVtqDhcRRTpiID4iATORcDmZBMEZB7NU1Oh3KEAD1WjQO73KKuNJ10YzkV2f3zne8M7LQfVZAbBFIjNpzosM67Arr13ZC1CIosVYUAZDZD",

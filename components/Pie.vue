@@ -54,10 +54,10 @@
           </h6>
           <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px" />
           <p>
-            <i class="fas fa-home mr-3"></i> Pelagio Luna 2235,Santos Lugares, Buenos Aires, Martes y Viernes de 19:30 a 21:00 hs
+            <i class="fas fa-home mr-3"></i> La Merced 4624, Caseros, Buenos Aires, Sabdos de 14:30 a 19:00 hs
           </p>
           <p>
-            <i class="fas fa-envelope mr-3"></i> z9.comunicaciones@scouts.org.ar
+            <i class="fas fa-envelope mr-3"></i> z9d5.director@scouts.org.ar
           </p>
         </mdb-col>
       </mdb-row>

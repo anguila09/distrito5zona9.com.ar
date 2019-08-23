@@ -28,7 +28,7 @@
 
       <ul class="navbar-nav nav-flex-icons">
         <li class="nav-item">
-          <a class="nav-link" href="https://www.facebook.com/zona9scoutsargentina">
+          <a class="nav-link" href="https://www.facebook.com/distritocinco.zonanueve/">
             <i class="fab fa-facebook-f"></i>
           </a>
         </li>
