@@ -29,22 +29,22 @@
       <ul class="navbar-nav nav-flex-icons">
         <li class="nav-item">
           <a class="nav-link" href="https://www.facebook.com/distritocinco.zonanueve/">
-            <i class="fab fa-facebook-f"></i>
+            <i class="fab fa-lg fa-facebook-f"></i>
           </a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://github.com/caseroft/distrito5zona9.ar">
-            <i class="fab fa-github"></i>
+            <i class="fab fa-lg fa-github"></i>
           </a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://www.instagram.com/distrito5zona9/">
-            <i class="fab fa-instagram"></i>
+            <i class="fab fa-lg fa-instagram"></i>
           </a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://web.whatsapp.com/send?phone=5491154208465">
-            <i class="fab fa-whatsapp"></i>
+            <i class="fab fa-lg fa-whatsapp"></i>
           </a>
         </li>
       </ul>

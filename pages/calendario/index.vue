@@ -5,7 +5,10 @@
     <FullCalendar
       defaultView="dayGridMonth"
       googleCalendarApiKey="AIzaSyCQ9aa3u8WaaIwL_93ZkYqEWoKgaWEE1Gk"
-      :events="{googleCalendarId: 'd7oe15ml0vft4sqs9ohnu724es@group.calendar.google.com'}"
+      :eventSources="[
+        { googleCalendarId: 'd7oe15ml0vft4sqs9ohnu724es@group.calendar.google.com'},
+        { googleCalendarId: 'zona9.org.ar_6fgl3k2ddd0jfg589e8cejtpms@group.calendar.google.com', className: 'success-color'}
+      ]"
       :plugins="calendarPlugins"
     />
 

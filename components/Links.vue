@@ -23,13 +23,13 @@
               <nuxt-link
                 v-if="link.to"
                 :to="link.to"
-                class="stretched-link btn btn-primary"
+                class="stretched-link btn white-text secondary-color"
               >Ingresar</nuxt-link>
               <a
                 v-if="link.link"
                 :href="link.link"
                 target="_blank"
-                class="stretched-link btn btn-primary"
+                class="stretched-link btn white-text secondary-color"
               >Ingresar</a>
             </mdb-row>
           </mdb-col>

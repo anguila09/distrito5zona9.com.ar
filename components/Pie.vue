@@ -9,16 +9,16 @@
           </mdb-col>
           <mdb-col md="6" lg="7" class="text-center text-md-right">
             <a class="fb-ic ml-0" href="https://www.facebook.com/distritocinco.zonanueve/">
-              <i class="fab fa-facebook white-text mr-lg-4"></i>
+              <i class="fab fa-facebook fa-2x white-text mr-lg-4"></i>
             </a>
             <a class="ins-ic" href="https://www.instagram.com/distrito5zona9/">
-              <i class="fab fa-instagram white-text mr-lg-4"></i>
+              <i class="fab fa-instagram fa-2x white-text mr-lg-4"></i>
             </a>
             <a class="ins-ic" href="https://web.whatsapp.com/send?phone=5491154208465">
-              <i class="fab fa-whatsapp white-text mr-lg-4"></i>
+              <i class="fab fa-whatsapp fa-2x white-text mr-lg-4"></i>
             </a>
             <a class="ins-ic" href="https://github.com/caseroft/distrito5zona9.com.ar">
-              <i class="fab fa-github white-text mr-lg-4"></i>
+              <i class="fab fa-github fa-2x white-text mr-lg-4"></i>
             </a>
           </mdb-col>
         </mdb-row>

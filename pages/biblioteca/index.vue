@@ -1,6 +1,6 @@
 <template>
   <mdb-container>
-    <h1 class="h1-responsive">Quienes Somos</h1>
+    <h1 class="h1-responsive">Biblioteca Distrital</h1>
     <hr />
     <div class="embed-responsive embed-responsive-16by9">
       <iframe
@@ -23,7 +23,7 @@ export default {
 
   head() {
     return {
-      title: "Quienes Somos"
+      title: "Biblioteca Distrital"
     };
   }
 };
