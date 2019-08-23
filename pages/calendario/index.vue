@@ -37,7 +37,7 @@ export default {
 
   head() {
     return {
-      title: "Calendario Zonal"
+      title: "Calendario Distrital"
     };
   },
   data() {

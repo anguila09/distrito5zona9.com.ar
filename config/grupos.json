@@ -45,7 +45,7 @@
     "id": 136,
     "distrito": 5,
     "nombre": "Nuestra Señora de Lourdes",
-    "fundacion": "12/3/1939",
+    "fundacion": "15/8/1939",
     "direccion": "Padre Silberman 1525",
     "localidad": "Santos Lugares",
     "partido": "Tres de Febrero",
@@ -75,12 +75,12 @@
     "nombre": "distrito 5",
     "fundacion": "12/12/2001",
     "direccion": "",
-    "localidad": "José Ingenieros - Saenz Peña - Santos Lugares - Caseros",
+    "localidad": "José Ingenieros - Saenz Peña - Villa Raffo - Santos Lugares - Caseros",
     "partido": "Tres de Febrero",
     "Pagina Web": "http://www.distrito5zona9.com.ar",
     "Facebook": "https://www.facebook.com/distritocinco.zonanueve",
     "colores": "#0000aa",
-    "Latitud": "",
-    "Longitud": ""
+    "Latitud": "-34.6091502",
+    "Longitud": "-58.5633946"
   }
 ]

@@ -80,7 +80,7 @@ export default {
 
   head() {
     return {
-      title: "Grupos de la Zona"
+      title: "Grupos del Distrito 5"
     };
   },
   data() {

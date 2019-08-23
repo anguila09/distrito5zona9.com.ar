@@ -44,7 +44,7 @@ export default {
   },
   head() {
     return {
-      title: "Comite Zonal "
+      title: "Comite Ejecutivo Distrital"
     };
   },
   data() {
