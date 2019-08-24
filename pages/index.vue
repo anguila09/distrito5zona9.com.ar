@@ -93,7 +93,7 @@ export default {
         .get("https://graph.facebook.com/v3.3/distrito5zona9saac/feed", {
           params: {
             access_token:
-              "EAAJSo7qsf6oBAO83Vu1pRL3ZAoKP4pq58hACucYM5sZBV4eRiovQW7EvcyCkF4VZAhBODoRIl43Q54eWkuFbNpBWKoApVOaElZB52cd8FpQTEk73u0qXxZBhsUonP9a86ZBvQN545egDvOAvwYdEG8QFapf80TuGt76dx0VosRUeTCXlwVblqFl99SQVycFOEU8dfBpyNdfQZDZD",
+              "EAAJSo7qsf6oBAEd6U71CPPaePq67qRn8GFkPCtbg9BbKqYDiBLy4R80aLB0ViqIXclCxGH9kadZBxF1SBJAvwlQsMelmohcpwwCaKCKsIf4SXfuPupntHHbtjR8qwxsgzUXbhZCo7pl0ntZBBi1FDXxaGf6udaAPZCZAT3eHOZCXrLmUff2WFW",
             fields:
               "created_time,full_picture,message,story,permalink_url,shares,via,comments,picture,sharedposts",
             //fields: 'created_time,event,expanded_width,expanded_height,feed_targeting,from,full_picture,height,icon,id,message,message_tags,parent_id,picture,place,privacy,promotable_id,promotion_status,properties,scheduled_publish_time,shares,story,story_tags,subscribed,target,targeting,timeline_visibility,updated_time,via,video_buying_eligibility,width,comments{application,attachment,can_comment,can_like,can_remove,can_reply_privately,comment_count,created_time,from,id,is_private,like_count,live_broadcast_timestamp,message,message_tags,object,parent,permalink_url,private_reply_conversation,user_likes,is_hidden,comments},permalink_url',
