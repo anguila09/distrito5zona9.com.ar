@@ -26,7 +26,10 @@
         </a>
       </mdb-navbar-nav>-->
 
-      <ul class="navbar-nav nav-flex-icons">
+      
+    </mdb-navbar-toggler>
+
+        <ul class="navbar-nav ml-auto nav-flex-icons">
         <li class="nav-item">
           <a class="nav-link" href="https://www.facebook.com/distritocinco.zonanueve/">
             <i class="fab fa-lg fa-facebook-f"></i>
@@ -47,8 +50,7 @@
             <i class="fab fa-lg fa-whatsapp"></i>
           </a>
         </li>
-      </ul>
-    </mdb-navbar-toggler>
+        </ul>
   </mdb-navbar>
 </template>
 
