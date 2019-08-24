@@ -90,10 +90,10 @@ export default {
       //http://meanandroid.com/latestposts/how-never-expiring-facebook-access-token/
       var self = this;
       this.$axios
-        .get("https://graph.facebook.com/v3.3/distritocinco.zonanueve/feed", {
+        .get("https://graph.facebook.com/v3.3/distrito5zona9saac/feed", {
           params: {
             access_token:
-              "EAAG7eaYW56ABAAVhCpRXDbaSf8nRDysihxKWfJo7wjQPHElAG98pqtWi05kQfpLI7tH2pVtqDhcRRTpiID4iATORcDmZBMEZB7NU1Oh3KEAD1WjQO73KKuNJ10YzkV2f3zne8M7LQfVZAbBFIjNpzosM67Arr13ZC1CIosVYUAZDZD",
+              "EAAJSo7qsf6oBAO83Vu1pRL3ZAoKP4pq58hACucYM5sZBV4eRiovQW7EvcyCkF4VZAhBODoRIl43Q54eWkuFbNpBWKoApVOaElZB52cd8FpQTEk73u0qXxZBhsUonP9a86ZBvQN545egDvOAvwYdEG8QFapf80TuGt76dx0VosRUeTCXlwVblqFl99SQVycFOEU8dfBpyNdfQZDZD",
             fields:
               "created_time,full_picture,message,story,permalink_url,shares,via,comments,picture,sharedposts",
             //fields: 'created_time,event,expanded_width,expanded_height,feed_targeting,from,full_picture,height,icon,id,message,message_tags,parent_id,picture,place,privacy,promotable_id,promotion_status,properties,scheduled_publish_time,shares,story,story_tags,subscribed,target,targeting,timeline_visibility,updated_time,via,video_buying_eligibility,width,comments{application,attachment,can_comment,can_like,can_remove,can_reply_privately,comment_count,created_time,from,id,is_private,like_count,live_broadcast_timestamp,message,message_tags,object,parent,permalink_url,private_reply_conversation,user_likes,is_hidden,comments},permalink_url',
