@@ -3,14 +3,12 @@
     <mdb-navbar-toggler>
       <mdb-navbar-nav>
         <mdb-nav-item to="/" active>Inicio</mdb-nav-item>
+        <mdb-nav-item to="/padres">Padres</mdb-nav-item>
+        <mdb-nav-item to="/nosotros">Nosotros</mdb-nav-item>
         <mdb-nav-item to="/comite">Comite</mdb-nav-item>
         <mdb-nav-item to="/grupos">Grupos</mdb-nav-item>
         <mdb-nav-item to="/biblioteca">Biblioteca</mdb-nav-item>
-
         <mdb-nav-item to="/calendario">Calendario</mdb-nav-item>
-        <mdb-nav-item to="/nosotros">Nosotros</mdb-nav-item>
-
-        <mdb-nav-item to="/padres">Padres</mdb-nav-item>
         <mdb-nav-item to="/insumos">Insumos</mdb-nav-item>
       </mdb-navbar-nav>
       <!--
